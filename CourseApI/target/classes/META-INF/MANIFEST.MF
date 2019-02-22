@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CourseApI
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AXH8E33
+Implementation-Vendor-Id: io.JavaBrainsSpringboot
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/CourseApI/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

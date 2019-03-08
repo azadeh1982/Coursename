@@ -34,6 +34,12 @@ public class Topic {
 	public void setDescription(String description) {
 		this.description = description;
 	}
+	public Object findAll(Object Topic) {
+				return Topic;
+	}
+	public void save(Topic topic) {
+		topic.save(topic);
+	}
 	
 			
 }
